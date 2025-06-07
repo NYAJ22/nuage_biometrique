@@ -1,7 +1,7 @@
 name: nuage_biometrique
 description: "A Flutter plugin that provides biometric authentication capabilities for Android and iOS applications, allowing secure user verification through fingerprint, face ID, and other biometric methods."
-version: 0.0.2
-repository: https://github.com/NYAJ22/Antivol.git
+version: 0.0.3
+repository: https://github.com/NYAJ22/nuage_biometrique.git
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
